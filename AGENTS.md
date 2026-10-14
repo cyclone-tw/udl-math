@@ -4,7 +4,9 @@
 
 <!-- udl-family-block v1 -->
 > **UDL 教學家族**：本 repo 是數學教材 repo（數學練習室），家族裡的數學都集中在這裡；2026-10-14 前叫 `cyclone-math-lab`。
+>
 > 上游：`udl-content-spec`（題型、數學參數化產生器、作答事件格式）、`sped-student-kit`（能力階梯）；下游：`udl-learning` 的 RPG 平台（之後以內容包或活動掛進去呈現）。
+>
 > 家族地圖正本：`cyclone-tw/udl-learning` 的 `docs/family-map.md`（私人 repo）。要改本 repo 的角色或串接方式，先改地圖。
 <!-- /udl-family-block -->
 
