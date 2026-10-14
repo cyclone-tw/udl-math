@@ -1,8 +1,16 @@
-# 數學練習室
+# 數學練習室（udl-math）
 
 數學互動練習的集中庫。入口網站用卡片列出每一個練習：適合誰、在學什麼、縮圖，點卡片就進入該練習。
 
-線上入口會由 GitHub Pages 發布。
+線上入口：<https://cyclone-tw.github.io/udl-math/>
+
+## 在 UDL 教學家族的位置
+
+本 repo 是 UDL 教學家族的數學教材 repo，家族裡的數學都集中在這裡。2026-10-14 以前叫 `cyclone-math-lab`；舊網址 `cyclone-tw.github.io/cyclone-math-lab/` 已不再提供，請改用上面的新網址。
+
+- 題型、數學出題規則、作答紀錄格式照公開規格 [`udl-content-spec`](https://github.com/cyclone-tw/udl-content-spec)。
+- 之後會掛進 `udl-learning` 的 RPG 教學平台，由平台負責登入、分配與作答紀錄；改寫時間等平台畫面架構定案。
+- 給 agent 的規則與家族地圖入口見 [`AGENTS.md`](AGENTS.md)。
 
 ## 目錄
 
