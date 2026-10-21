@@ -21,10 +21,9 @@
 
 ## 硬紅線
 
-1. 可識別學生資料不進 git、不上公開頁；作答紀錄若要匯出，只用代號，格式照 `udl-content-spec` 的 `udl-attempt-events/v1`。
-2. 這是公開 repo：有價值的題庫、出題工具或素材要放進來之前，先問 Cyclone（udl-learning `AGENTS.md` 硬紅線 5）。
-3. Secrets／token／`.env` 不進 git。
-4. 圖內不要文字、字母、數字、浮水印（美術方向照 udl-learning `docs/art-direction.md`）。
+1. 這是公開 repo：有價值的題庫、出題工具或素材要放進來之前，先問 Cyclone（udl-learning `AGENTS.md` 硬紅線 5）。
+2. Secrets／token／`.env` 不進 git。
+3. 圖內不要文字、字母、數字、浮水印（美術方向照 udl-learning `docs/art-direction.md`）。
 
 ## 開發流程
 
