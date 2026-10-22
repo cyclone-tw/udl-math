@@ -29,5 +29,6 @@
 
 - Issue-first；branch → PR → 受管跨 agent review（`openab-review`）→ approved 或 nits-only＋CI 綠就 merge；Coder ≠ Reviewer。
 - 共用 checkout 不切分支；在 `~/Cyclone-System/worktrees/udl-math-<issue>-<slug>` 開自己的 worktree。
+- 書商教材（教師資源、考卷）固定放學校 Drive `04.學校相關/02.特教教學/03.教材資源/`：要找先讀 `03.教材編輯/README-教材索引.md`，新檔用 udl-learning 的 `scripts/intake_teaching_material.py` 收件（規則見 udl-learning `docs/authoring/publisher-materials.md`，udl-learning#446）。書商原始檔有版權，不進本公開 repo。
 - 一律 pnpm。推上 `main` 後由 `.github/workflows/pages.yml` 建置並發布 Pages。
 - 作答介面照家族慣例：觸控優先、目標 48px 以上、答錯不羞辱、支援 `prefers-reduced-motion`。
